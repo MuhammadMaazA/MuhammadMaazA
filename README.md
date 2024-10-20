@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on AI, machine learning, and data science projects, particularly those with practical applications and opportunities for innovation.
 
-📫 How to reach me: [mmaaz172005@gmail.com]
+📫 How to reach me: [mmaaz172005@gmail.com] or linkedin.com/in/m-maaz
