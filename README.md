@@ -61,15 +61,6 @@
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/MuhammadMaazA/MuhammadMaazA/main/output/snake.svg)
-
-
-
-
-
-
 
 
 
