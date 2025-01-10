@@ -1,8 +1,7 @@
-<h4 align="left">👋 Hi, I’m Muhammad Maaz.<br><br>💡 I’m passionate about AI, machine learning, and data science, and how they can drive practical solutions.<br><br>🎓 Currently pursuing an MEng in Robotics and Artificial Intelligence at UCL, focusing on software-driven innovation.<br><br>🤝 I’m open to collaborating on AI and data science projects with real-world impact.</h4>
+<h4 align="left">👋 Hi, I’m Muhammad Maaz.<br><br>💡 I’m passionate about AI, machine learning, and data science, and how they can drive practical solutions.<br><br>🎓 Currently pursuing MEng Robotics and Artificial Intelligence at UCL, focusing on software-driven innovation.<br><br>🤝 I’m open to collaborating on AI and data science projects with real-world impact.</h4>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMaazA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=MuhammadMaazA&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadMaazA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMaazA&theme=github-dark&area=true&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
@@ -10,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://w7.pngwing.com/pngs/548/513/png-transparent-github-computer-software-fork-javascript-c-github-cartoon-fictional-character-glasses.png"  />
 
 ###
 
