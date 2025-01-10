@@ -63,9 +63,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MuhammadMaazA/MuhammadMaazA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MuhammadMaazA/MuhammadMaazA/main/output/snake.svg" alt="Snake animation" />
 
-###
+![Snake animation](https://raw.githubusercontent.com/MuhammadMaazA/MuhammadMaazA/main/output/snake.svg)
+
 
 
 
