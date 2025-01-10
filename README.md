@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<h1 align="left">👋 Hi, I’m Muhammad Maaz.<br><br>💡 I’m passionate about AI, machine learning, and data science, and how they can drive practical solutions.<br><br>🎓 Currently pursuing an MEng in Robotics and Artificial Intelligence at UCL, focusing on software-driven innovation.<br><br>🤝 I’m open to collaborating on AI and data science projects with real-world impact.</h1>
 ###
 
 <div align="center">
