@@ -1,9 +1,9 @@
-👋 Hi, I’m @MuhammadMaazA
+👋 Hi, I’m Muhammad Maaz.
 
-👀 I’m interested in AI, machine learning, and data science.
+💡 I’m passionate about AI, machine learning, and data science, and how they can drive practical solutions.
 
-🌱 I’m currently learning topics in AI and robotics as part of my MEng Robotics and Artificial Intelligence degree at UCL.
+🎓 Currently pursuing an MEng in Robotics and Artificial Intelligence at UCL, focusing on software-driven innovation.
 
-💞️ I’m looking to collaborate on AI, machine learning, and data science projects, particularly those with practical applications and opportunities for innovation.
+🤝 I’m open to collaborating on AI and data science projects with real-world impact.
 
-📫 How to reach me: mmaaz172005@gmail.com or [LinkedIn](https://www.linkedin.com/in/m-maaz-)
+📫 Reach me at mmaaz172005@gmail.com or [LinkedIn](https://www.linkedin.com/in/m-maaz-)
