@@ -1,4 +1,7 @@
-<h4 align="left">👋 Hi, I’m Muhammad Maaz.<br><br>💡 I’m passionate about AI, machine learning, and data science, and how they can drive practical solutions.<br><br>🎓 Currently pursuing MEng Robotics and Artificial Intelligence at UCL, focusing on software-driven innovation.<br><br>🤝 I’m open to collaborating on AI and data science projects with real-world impact.</h4>
+👋 Hi, I’m Muhammad Maaz.
+💡 I’m passionate about AI, machine learning, and data science, and how they can drive practical solutions.
+🎓 Currently pursuing MEng Robotics and Artificial Intelligence at UCL, focusing on software-driven innovation.
+🤝 I’m open to collaborating on AI and data science projects with real-world impact.
 
 
 <div align="center">
